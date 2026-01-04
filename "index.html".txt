@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>John Doe | Chief Customer Officer Portfolio</title>
+  <meta name="description" content="Customer Success and post sale executive. NRR, GRR, churn reduction, expansion ARR. Global CS, Support, Professional Services, and lifecycle operations." />
+  <meta property="og:title" content="John Doe | Chief Customer Officer Portfolio" />
+  <meta property="og:description" content="Customer Success and post sale executive driving predictable retention and expansion." />
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="header">
+    <div class="container header-row">
+      <div class="brand">
+        <div class="name">John Doe</div>
+        <div class="title">Customer Success Executive | CCO | VP Customer Success</div>
+      </div>
+
+      <nav class="nav">
+        <a href="#impact">Impact</a>
+        <a href="#system">Operating System</a>
+        <a href="#cases">Case Studies</a>
+        <a href="#scope">Scope</a>
+        <a href="#contact" class="btn btn-small">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <h1>Chief Customer Officer who builds predictable retention and expansion engines</h1>
+          <p class="lead">
+            25 plus years leading and scaling global post sale organizations across SaaS, AI, MarTech, and digital platforms.
+            Built AI enabled lifecycle systems delivering NRR above 120 percent, GRR up to 95 percent, and multimillion dollar expansion results.
+          </p>
+
+          <div class="cta-row">
+            <a class="btn" href="#contact">Request a confidential conversation</a>
+            <a class="btn btn-ghost" href="#resume">Download resume</a>
+          </div>
+
+          <div class="trust">
+            Trusted partner to CEOs, boards, and investors for post sale P and L, customer strategy, and operating discipline.
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Snapshot</div>
+          <ul class="bullets">
+            <li>NRR: sustained above 120 percent in multiple environments</li>
+            <li>GRR: up to 95 percent</li>
+            <li>Expansion: 14M plus ARR expansion delivered</li>
+            <li>Churn: reduced 30 to 40 percent through predictive health and automation</li>
+            <li>Scale: built organizations from 12 to 275 globally, and led post sale functions at 20,000 plus customer scale</li>
+          </ul>
+          <div class="note">Numbers shown reflect prior operating results across roles.</div>
+        </div>
+      </div>
+    </section>
+
+    <section id="impact" class="section">
+      <div class="container">
+        <h2>Business impact</h2>
+        <div class="kpi-grid">
+          <div class="kpi">
+            <div class="kpi-num">120%+</div>
+            <div class="kpi-label">Net Revenue Retention</div>
+          </div>
+          <div class="kpi">
+            <div class="kpi-num">95%+</div>
+            <div class="kpi-label">Gross Revenue Retention</div>
+          </div>
+          <div class="kpi">
+            <div class="kpi-num">14M+</div>
+            <div class="kpi-label">ARR expansion delivered</div>
+          </div>
+          <div class="kpi">
+            <div class="kpi-num">30–40%</div>
+            <div class="kpi-label">Churn reduction via predictive risk</div>
+          </div>
+          <div class="kpi">
+            <div class="kpi-num">23%</div>
+            <div class="kpi-label">Cost to serve reduction</div>
+          </div>
+          <div class="kpi">
+            <div class="kpi-num">48%</div>
+            <div class="kpi-label">CSAT improvement</div>
+          </div>
+        </div>
+
+        <div class="callout">
+          Outcomes delivered through lifecycle design, instrumentation, segmentation, renewal rigor, and cross functional alignment across Product, Sales, Marketing, and Finance.
+        </div>
+      </div>
+    </section>
+
+    <section id="system" class="section alt">
+      <div class="container">
+        <h2>Customer lifecycle operating system</h2>
+        <div class="two-col">
+          <div class="card">
+            <h3>What gets built</h3>
+            <ul class="bullets">
+              <li>Lifecycle playbooks from onboarding through expansion and advocacy</li>
+              <li>Telemetry and health scoring with 90 to 180 day risk visibility</li>
+              <li>Renewal forecasting discipline with board ready dashboards</li>
+              <li>Digital programs for scaled coverage and time to value reduction</li>
+              <li>Services monetization with margin and utilization control</li>
+              <li>VOC loop that drives product decisions within 14 days</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>How value is created</h3>
+            <ul class="bullets">
+              <li>Retention economics improved through segmentation and save motions</li>
+              <li>Expansion generated via outcome based success plans and executive reviews</li>
+              <li>Support efficiency improved with tiering, routing, deflection, and SLA governance</li>
+              <li>Professional Services scaled through packaging, scoping, and resource planning</li>
+              <li>Team performance improved through enablement, coaching, and career pathways</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="cases" class="section">
+      <div class="container">
+        <h2>Case studies</h2>
+
+        <div class="case-grid">
+          <article class="case card">
+            <h3>AI enabled predictive health and renewal precision</h3>
+            <p>
+              Built telemetry and health scoring to surface risk 90 to 180 days early. Reduced churn and escalations 27 to 40 percent and improved renewal forecast accuracy to mid 90s.
+            </p>
+            <ul class="bullets">
+              <li>Signal strategy and instrumentation</li>
+              <li>Risk playbooks and exec escalation model</li>
+              <li>Forecast cadence and reporting to leadership</li>
+            </ul>
+          </article>
+
+          <article class="case card">
+            <h3>NRR growth through lifecycle redesign and scaled adoption</h3>
+            <p>
+              Implemented onboarding, adoption, and renewal playbooks including in app education and digital pathways. Improved NRR by double digits and drove meaningful expansion ARR.
+            </p>
+            <ul class="bullets">
+              <li>Segmentation and coverage model</li>
+              <li>Time to value acceleration</li>
+              <li>Success plans and executive business reviews</li>
+            </ul>
+          </article>
+
+          <article class="case card">
+            <h3>Support and services modernization for margin and experience</h3>
+            <p>
+              Modernized support operations with tiering, AI assisted routing, and real time dashboards. Reduced MTTR, improved SLA adherence, and created premium support and services monetization.
+            </p>
+            <ul class="bullets">
+              <li>Tiered support and deflection strategy</li>
+              <li>Premium support packaging</li>
+              <li>Services pricing, utilization, and margin controls</li>
+            </ul>
+          </article>
+        </div>
+
+        <div class="note">
+          Additional detailed writeups available upon request, including before and after operating metrics, org design, and playbooks.
+        </div>
+      </div>
+    </section>
+
+    <section id="scope" class="section alt">
+      <div class="container">
+        <h2>Leadership scope</h2>
+        <div class="scope-grid">
+          <div class="card">
+            <h3>Functions led</h3>
+            <ul class="bullets">
+              <li>Customer Success and Account Management</li>
+              <li>Customer Support and incident governance</li>
+              <li>Professional Services and implementation delivery</li>
+              <li>Onboarding and enablement</li>
+              <li>Customer Success Operations and RevOps partnership</li>
+              <li>Partner Success and customer advocacy</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Scale and complexity</h3>
+            <ul class="bullets">
+              <li>Global organizations across NA, EMEA, APAC</li>
+              <li>Enterprise portfolios including Fortune scale customers</li>
+              <li>High volume SMB environments at 20,000 plus customer scale</li>
+              <li>M and A integration and post sale operating harmonization</li>
+              <li>Board level reporting and investor narratives</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Tooling and data</h3>
+            <ul class="bullets">
+              <li>Gainsight, Salesforce, Zendesk, ChurnZero, HubSpot</li>
+              <li>Looker, Snowflake, Tableau</li>
+              <li>Predictive churn modeling and AI health scoring</li>
+              <li>ROI dashboards, renewal forecasting automation</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="resume" class="section">
+      <div class="container">
+        <h2>Resume</h2>
+        <div class="resume-row card">
+          <div>
+            <div class="card-title">Download</div>
+            <p class="muted">Attach a PDF resume file and link it here. Keep it under 2 pages.</p>
+          </div>
+          <div>
+            <a class="btn btn-ghost" href="resume.pdf" download>Download resume PDF</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section alt">
+      <div class="container">
+        <h2>Contact</h2>
+        <div class="two-col">
+          <div class="card">
+            <h3>For CEOs, VCs, and PE partners</h3>
+            <p class="muted">
+              Open to Chief Customer Officer and VP Customer Success leadership roles in growth stage SaaS and AI enabled platforms.
+              Prefer organizations focused on retention economics, customer outcomes, and scalable post sale operations.
+            </p>
+
+            <div class="contact-list">
+              <div><strong>Email:</strong> your.name@email.com</div>
+              <div><strong>LinkedIn:</strong> linkedin.com/in/yourhandle</div>
+              <div><strong>Location:</strong> Seattle area | open to remote</div>
+            </div>
+
+            <div class="cta-row">
+              <a class="btn" href="mailto:your.name@email.com?subject=Confidential%20conversation%20re%20customer%20leadership">Email to schedule</a>
+              <a class="btn btn-ghost" href="https://calendly.com/yourhandle/intro" target="_blank" rel="noreferrer">Book time</a>
+            </div>
+          </div>
+
+          <div class="card">
+            <h3>What to expect in an intro</h3>
+            <ul class="bullets">
+              <li>Rapid assessment of retention and expansion constraints</li>
+              <li>Operating model recommendations across CS, Support, and Services</li>
+              <li>First 90 day plan aligned to revenue outcomes and team reality</li>
+              <li>Clear view of expected NRR, GRR, and margin levers</li>
+            </ul>
+            <div class="note">Confidentiality respected. References available later stage.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container footer-row">
+        <div>© <span id="year"></span> John Doe</div>
+        <div class="muted">Customer Success | Post sale P and L | Retention and expansion</div>
+      </div>
+    </footer>
+  </main>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
